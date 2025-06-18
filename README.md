@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Devandra El Syadam<br><br>I'm a student at SMK Sasmita Jaya 1 Pamulang, majoring in Visual Communication Design (DKV).  <br>Currently exploring the intersection between design, technology, and security.<br><br>💡 Interests<br>- 🛡️ Cybersecurity & Network Engineering  <br>- 🔗 Blockchain & Smart Contract Development  <br>- 🤖 AI & Web3 Security  <br>- 🧠 Robotics & Automation  <br>- 🎨 UI/UX & Digital Design
+👋 Hi, I'm Devandra El Syadam<br><br>I'm a student at SMK Sasmita Jaya 1 Pamulang, majoring in Visual Communication Design (DKV).  <br>Currently exploring the intersection between design, technology, and security.<br><br>
 
+## 💡 Interests
+- 🛡️ Cybersecurity & Network Engineering  <br>- 🔗 Blockchain & Smart Contract Development  <br>- 🤖 AI & Web3 Security  <br>- 🧠 Robotics & Automation  <br>- 🎨 UI/UX & Digital Design
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vantxmx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyeger-el-a3b885334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devandraelsyadam28@gmail.com) 
