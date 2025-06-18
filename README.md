@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Devandra El Syadam<br><br>I'm a student at SMK Sasmita Jaya 1 Pamulang, majoring in Visual Communication Design (DKV).  <br>Currently exploring the intersection between design, technology, and security.<br><br>
 
-## 💡 Interests:
+# 💡 Interests:
 - 🛡️ Cybersecurity & Network Engineering  
 - 🔗 Blockchain & Smart Contract Development  
 - 🤖 AI & Web3 Security  
