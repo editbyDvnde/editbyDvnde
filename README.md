@@ -6,7 +6,7 @@
 - 🔗 Blockchain & Smart Contract Development  
 - 🤖 AI & Web3 Security  
 - 🧠 Robotics & Automation  
-- 🎨 UI/UX & Digital Design<br>
+- 🎨 UI/UX & Digital Design
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vantxmx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyeger-el-a3b885334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devandraelsyadam28@gmail.com) 
