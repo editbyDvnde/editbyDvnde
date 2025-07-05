@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=1000&color=00FFFF&background=1F1F1F00&width=435&lines=Just+Another+mind+behind+the+screen...;Hi%2C+I'm+Devandra+El+Syadam)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="gifgit.gif" width="100%" />
+</p>
+
 # 💫 About Me:
 👋 Hi, I'm Devandra El Syadam<br><br>I'm a student at SMK Sasmita Jaya 1 Pamulang, majoring in Visual Communication Design (DKV).  <br>Currently exploring the intersection between design, technology, and security.<br><br>
 
